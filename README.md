@@ -28,8 +28,7 @@
 ###
 
 <p align="left">
-### 👨‍💻 About Me<br><br>⚡ I am a driven **Full-Stack Developer** with a solid foundation in **Front-End Engineering** (React & Next.js) and an expanding expertise in **Back-End Development** (Node.js, Express, MongoDB). <br><br>🌱 **Always Learning, Always Growing:** I have an insatiable thirst for knowledge. Whether it's dissecting complex software architecture, mastering data structures. I thrive on pushing my boundaries and learning something new every single day.<br><br>🛠️ **Current Focus:** Right now, I'm busy turning ideas into complete end-to-end applications (like leveling up my `deep-coding` project) and preparing to launch my personal portfolio website at **MahdyarDev.io**.<br><br>🏋️‍♂️ **Beyond the Code:** When I'm not optimizing code or learning new frameworks, you'll find me hitting the gym 5 days a week or hanging out with my energetic German Shepherd, **Sky** 🐕.</p>
-
+### 👨‍💻 About Me<br><br>⚡ I am a driven **Full-Stack Developer** with a solid foundation in **Front-End Engineering** (React & Next.js) and an expanding expertise in **Back-End Development** (Node.js, Express, MongoDB). <br><br>🌱 **Always Learning, Always Growing:** I have an insatiable thirst for knowledge. Whether it's dissecting complex software architecture, mastering data structures. I thrive on pushing my boundaries and learning something new every single day.<br><br>🛠️ **Current Focus:** Right now, I'm busy turning ideas into complete end-to-end applications (like leveling up my `deep-coding` project) and preparing to launch my personal portfolio website at **MahdyarDev.io**.<br>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
