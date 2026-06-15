@@ -34,19 +34,20 @@
 
 ### 👨‍💻 About Me
 
-* 🚀 Full-Stack Developer with strong focus on **React & Next.js**
-* 🧠 Currently mastering **Node.js, Express & MongoDB**
-* 🔥 Building real-world products like **Deep-Coding**
-* 📈 Improving in **Data Structures & Clean Architecture**
-* 🎯 Goal: Become a high-level **Full-Stack Engineer**
+* 🚀 Full-Stack Developer specialized in **React & Next.js**
+* ⚡ Experienced in building **scalable and production-ready applications**
+* 🧠 Strong understanding of **software architecture & clean code principles**
+* 🔥 Focused on delivering **real-world, high-quality products**
+* 🎯 Passionate about building impactful digital experiences
 
 ---
 
-### 🧠 Current Focus
+### 🧠 Focus
 
-* ⚙️ Building fullstack applications (frontend → backend → deploy)
-* 🧩 Writing clean, scalable architecture
-* 🌐 Working on personal brand → **MahdyarDev.io**
+* ⚙️ Developing end-to-end fullstack applications
+* 🧩 Designing clean, maintainable and scalable architectures
+* 🌐 Growing personal brand → **MahdyarDev.io**
+
 
 ---
 
