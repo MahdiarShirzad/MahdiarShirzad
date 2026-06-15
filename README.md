@@ -6,23 +6,20 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mahdyar-shirzad-a72873280/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://t.me/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" />
+  <a href="https://t.me/mahdyarshirzad" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://wa.me/YOUR_NUMBER" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&color=25D366&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
+  <a href="mailto:mahdiar55582@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mahdyar-shirzad&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mahdyar-shirzad" />
 </div>
 
 ---
@@ -37,19 +34,19 @@
 
 ### 👨‍💻 About Me
 
-* 🚀 Passionate **Full-Stack Developer** with strong expertise in **Front-End (React & Next.js)**
-* 🧠 Currently diving deeper into **Back-End (Node.js, Express, MongoDB)**
-* 🔥 Love building real-world, scalable applications (like **Deep-Coding**)
-* 📈 Always improving in **Data Structures & Clean Architecture**
-* 🎯 Goal: Become a **high-level Full-Stack Engineer** and build impactful products
+* 🚀 Full-Stack Developer with strong focus on **React & Next.js**
+* 🧠 Currently mastering **Node.js, Express & MongoDB**
+* 🔥 Building real-world products like **Deep-Coding**
+* 📈 Improving in **Data Structures & Clean Architecture**
+* 🎯 Goal: Become a high-level **Full-Stack Engineer**
 
 ---
 
 ### 🧠 Current Focus
 
-* ⚙️ Building full end-to-end apps (frontend → backend → deployment)
-* 🧩 Improving system design & project architecture
-* 🌐 Launching personal brand → **MahdyarDev.io**
+* ⚙️ Building fullstack applications (frontend → backend → deploy)
+* 🧩 Writing clean, scalable architecture
+* 🌐 Working on personal brand → **MahdyarDev.io**
 
 ---
 
@@ -93,6 +90,6 @@
 
 ### ⚡ Fun Fact
 
-> I don't just write code — I build products, solve problems, and continuously level up 🚀
+> I build things, not just code 🚀
 
 ---
