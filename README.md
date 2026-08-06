@@ -39,20 +39,20 @@
 
 I build **real-world products**, not just demo projects.
 
-* ⚛️ Strong in **React & Next.js (Front-End)**
-* 🧠 Solid understanding of **Back-End with Node.js & Express**
-* ⚡ Building **full-stack scalable applications**
-* 🎯 Focused on **performance, UX, and clean architecture**
-* 🔥 Product mindset (not tutorial-driven)
+- ⚛️ Strong in **React & Next.js (Front-End)**
+- 🧠 Solid understanding of **Back-End with Node.js & Express**
+- ⚡ Building **full-stack scalable applications**
+- 🎯 Focused on **performance, UX, and clean architecture**
+- 🔥 Product mindset (not tutorial-driven)
 
 ---
 
 ### 🧠 What I’m Doing
 
-* ⚙️ Developing **end-to-end full-stack apps**
-* 🧩 Designing **clean & scalable architectures**
-* 🌐 Growing my platform → **https://mahdyardev.ir**
-* 🚀 Building portfolio projects that actually matter
+- ⚙️ Developing **end-to-end full-stack apps**
+- 🧩 Designing **clean & scalable architectures**
+- 🌐 Growing my platform → **https://mahdyardev.ir**
+- 🚀 Building portfolio projects that actually matter
 
 ---
 
@@ -60,29 +60,29 @@ I build **real-world products**, not just demo projects.
 
 #### 💻 Front-End
 
-* React.js / Next.js
-* TypeScript / JavaScript
-* Redux / State Management
-* HTML / CSS / Tailwind / MUI
+- React.js / Next.js
+- TypeScript / JavaScript
+- Redux / State Management
+- HTML / CSS / Tailwind / MUI
 
 #### 🧠 Back-End
 
-* Node.js
-* Express.js
-* REST API Design
-* Authentication & Middleware
+- Node.js
+- Express.js
+- REST API Design
+- Authentication & Middleware
 
 #### 🗄 Database
 
-* MongoDB
-* MySQL
+- MongoDB
+- MySQL
 
 #### ⚙️ Tools
 
-* Git / GitHub / GitLab
-* Docker (basic)
-* VS Code
-* Jira
+- Git / GitHub / GitLab
+- Docker (basic)
+- VS Code
+- Jira
 
 ---
 
@@ -101,10 +101,10 @@ Become a **high-level full-stack developer** capable of building **scalable prod
 
 ### 🤝 Let’s Connect
 
-* 🌐 Website: https://mahdyardev.ir
-* 💼 LinkedIn: https://www.linkedin.com/in/mahdyar-shirzad-a72873280/
-* ✉️ Email: [mahdiar55582@gmail.com](mailto:mahdiar55582@gmail.com)
-* 📬 Telegram: https://t.me/mahdyarshirzad
+- 🌐 Website: https://mahdyardev.ir
+- 💼 LinkedIn: https://www.linkedin.com/in/mahdyar-shirzad-a72873280/
+- ✉️ Email: [mahdiar55582@gmail.com](mailto:mahdiar55582@gmail.com)
+- 📬 Telegram: https://t.me/mahdyarshirzad
 
 ---
 
@@ -113,5 +113,5 @@ Become a **high-level full-stack developer** capable of building **scalable prod
 </div>
 
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/MahdiarShirzad/MahdiarShirzad/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
