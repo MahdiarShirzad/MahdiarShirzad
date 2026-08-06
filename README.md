@@ -111,3 +111,7 @@ Become a **high-level full-stack developer** capable of building **scalable prod
 <div align="center">
   <sub>Focused on building, not showing off 🚀</sub>
 </div>
+
+<div align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
