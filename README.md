@@ -1,10 +1,13 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Mahdyar%20Shirzad&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 ---
 
 <div align="center">
+  <a href="https://mahdyardev.ir" target="_blank">
+    <img src="https://img.shields.io/badge/Website-MahdyarDev.ir-000?style=for-the-badge&logo=google-chrome&logoColor=white" height="25" />
+  </a>
   <a href="https://www.linkedin.com/in/mahdyar-shirzad-a72873280/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" />
   </a>
@@ -27,29 +30,29 @@
 <h1 align="center">
   Hey 👋 I'm Mahdyar Shirzad  
   <br/>
-  <sub>Front-End Focused Full-Stack Developer</sub>
+  <sub>Full-Stack Developer (React / Node.js)</sub>
 </h1>
 
 ---
 
 ### 🚀 About Me
 
-I’m a developer who cares about **building real products**, not just writing code.
+I build **real-world products**, not just demo projects.
 
-* ⚛️ Specialized in **React & Next.js**
-* 🧠 Strong focus on **clean architecture & maintainable code**
-* ⚡ Experienced in building **scalable, production-ready apps**
-* 🎯 Product-oriented mindset (UX, performance, real-world use)
-* 🔥 Always pushing to build better, faster, cleaner
+* ⚛️ Strong in **React & Next.js (Front-End)**
+* 🧠 Solid understanding of **Back-End with Node.js & Express**
+* ⚡ Building **full-stack scalable applications**
+* 🎯 Focused on **performance, UX, and clean architecture**
+* 🔥 Product mindset (not tutorial-driven)
 
 ---
 
 ### 🧠 What I’m Doing
 
-* ⚙️ Building **full-stack applications** (from idea → production)
-* 🧩 Designing **scalable and clean architectures**
-* 🌐 Growing my personal brand → **MahdyarDev.io**
-* 🚀 Working on projects that actually matter (not tutorial junk)
+* ⚙️ Developing **end-to-end full-stack apps**
+* 🧩 Designing **clean & scalable architectures**
+* 🌐 Growing my platform → **https://mahdyardev.ir**
+* 🚀 Building portfolio projects that actually matter
 
 ---
 
@@ -64,26 +67,22 @@ I’m a developer who cares about **building real products**, not just writing c
 
 #### 🧠 Back-End
 
-* Node.js / Express
-* .NET / C#
-* REST APIs & Architecture
+* Node.js
+* Express.js
+* REST API Design
+* Authentication & Middleware
 
 #### 🗄 Database
 
 * MongoDB
 * MySQL
 
-#### ⚙️ Tools & DevOps
+#### ⚙️ Tools
 
 * Git / GitHub / GitLab
 * Docker (basic)
-* Kubernetes (learning)
-* VS Code / Visual Studio
+* VS Code
 * Jira
-
-#### 🧪 Other
-
-* Python (basic / scripting)
 
 ---
 
@@ -96,14 +95,13 @@ I’m a developer who cares about **building real products**, not just writing c
 
 ### 📈 Current Goal
 
-Become a **high-level full-stack engineer** who can design and build **complex, scalable systems** from scratch.
+Become a **high-level full-stack developer** capable of building **scalable production systems** from scratch.
 
 ---
 
 ### 🤝 Let’s Connect
 
-If you're building something cool or need a developer who actually understands products:
-
+* 🌐 Website: https://mahdyardev.ir
 * 💼 LinkedIn: https://www.linkedin.com/in/mahdyar-shirzad-a72873280/
 * ✉️ Email: [mahdiar55582@gmail.com](mailto:mahdiar55582@gmail.com)
 * 📬 Telegram: https://t.me/mahdyarshirzad
@@ -111,5 +109,5 @@ If you're building something cool or need a developer who actually understands p
 ---
 
 <div align="center">
-  <sub>Built with focus, not copy-paste 💀</sub>
+  <sub>Focused on building, not showing off 🚀</sub>
 </div>
