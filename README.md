@@ -25,15 +25,19 @@
 
 ## About Me
 
-I'm a full-stack developer working primarily with TypeScript, React, Next.js, Node.js, and Express.
+I'm a full-stack developer working primarily with TypeScript, React, Next.js, Node.js, Express, and NestJS.
 
 I enjoy taking projects beyond the UI: designing APIs, modeling data, implementing authentication, structuring backend systems, and deploying complete applications on my own infrastructure.
 
 * **Frontend:** React, Next.js, TypeScript, Tailwind CSS, TanStack Query.
-* **Backend:** Node.js, Express, REST APIs, MongoDB, Mongoose, OAuth and JWT-based auth.
+* **Backend:** Node.js, Express, NestJS, REST APIs, PostgreSQL, Prisma, MongoDB, Mongoose, OAuth and JWT-based auth.
 * **Infrastructure:** Self-managed Linux VPS with Nginx, PM2, SSL, and GitHub Actions CI/CD.
-* **Engineering interests:** Backend architecture, authentication, API design, and deployment.
+* **Engineering interests:** Backend architecture, authentication, API design, relational data modeling, and deployment.
 * **Beyond coding:** Studying Computer Engineering and mentoring developers learning Node.js and Express.
+
+## Goal
+
+Becoming a **Full-Stack AI Engineer / Agentic AI Engineer**: building production-grade web applications where LLM-powered agents, tool calling, and automated workflows are first-class parts of the product, backed by solid backend architecture.
 
 ## Current Focus
 
@@ -60,6 +64,19 @@ A Turborepo monorepo with a Next.js frontend and an Express API, built as a comp
 * Cookie-based JWT auth with automatic token refresh, plus customizable color themes and fonts.
 
 **Stack:** `Next.js` `TypeScript` `Express` `MongoDB` `TanStack Query` `Turborepo`
+
+### 🏭 Foundry
+
+**A product-building workspace that guides founders from first idea to measurable launch.**
+
+An eight-stage platform with a Next.js frontend and a NestJS backend, organized around a shared product anchor so every stage connects to the same product.
+
+* **Stages:** Idea Lab, Market Intelligence, Validation Lab, MVP Studio, Product Roadmap, Launch Center, Feedback Hub, and Founder Analytics.
+* Authentication with email verification, password reset, and refresh tokens, enforced by global guards.
+* Relational data model with Prisma and PostgreSQL, covering ideas, hypotheses, experiments, features, releases, and feedback.
+* **Status:** in active development; auth and the product module are complete and connected end to end.
+
+**Stack:** `Next.js` `TypeScript` `NestJS` `Prisma` `PostgreSQL`
 
 ### 🧳 My Trip
 
